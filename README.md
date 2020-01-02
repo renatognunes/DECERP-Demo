@@ -1,7 +1,7 @@
 # Construction Management Application - Demo
 <br> http://decinfraerp.coffeeinc.in/
 
-Front-end development stack:
+Front-End development stack:
 - Typescript - A typed superset of JavaScript that compiles to plain JavaScript. https://www.typescriptlang.org/
 - React.js - A JavaScript library for building user interfaces. https://reactjs.org/
 - Ant Design Pro - Design System. https://ant.design/
